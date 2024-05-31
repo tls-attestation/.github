@@ -1,4 +1,4 @@
-<img src="attested-tls.png" width="50" height="50">
+<img src="atls.png" width="50" height="50">
 
 # Attested TLS
 
