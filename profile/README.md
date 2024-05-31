@@ -1,7 +1,3 @@
-<img src="atls.png" width="50" height="50">
-
-# Attested TLS
-
 This is the home of the Attested TLS project.
 
 ## Meetings
